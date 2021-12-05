@@ -1,23 +1,9 @@
-# Monitorowanie jednostek morskich - Backend
-Backendowa częśc aplikacji na konkurs https://bykowski.pl/wez-udzial-w-konkursie-programistycznym-monitorowanie-jednostek-morskich/ <br>
-<br>
-Część frontendowa tutaj: 
-<br>
-<br>
-Kompletna aplikacja dostępna pod adresem:
-<br>
-<br>
-Część backendowa zainstalowana jako kontener dockera na Heroku
-<br>
+# Monitorowanie jednostek morskich - frontend
+Frontendowa częśc aplikacji na konkurs https://bykowski.pl/wez-udzial-w-konkursie-programistycznym-monitorowanie-jednostek-morskich/ <br>
 Część frontendowa na githubPages.
 ## Overview
-SpringBoot
-PostgreSQL
-## Known issues: <br>
-Nie wszystki endpointy są wykorzystywane przez frontend ale łącząc się z nimi przes Postmana są funkcjonalne. Zabrakło czasu/umiejętności :)
-<br> brak jakielkolwiek walidacji formularza, brak spring security i powiązania konkretnego użytkownika z mapą.
-## Version
-Propably v0.1 is the last ]:-> 
+Angular
+
 # Screenshot
 ![image](https://user-images.githubusercontent.com/59804863/144753200-f545d7e3-bc17-44b1-911f-ee90b0a190e8.png)
 <br>
