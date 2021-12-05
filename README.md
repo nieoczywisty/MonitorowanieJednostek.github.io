@@ -3,7 +3,9 @@ Frontendowa częśc aplikacji na konkurs https://bykowski.pl/wez-udzial-w-konkur
 
 Część backedowa tutaj: https://github.com/nieoczywisty/MonitorowanieJednostekBackend
 <br>
+<br>
 Część frontendowa na githubPages.https://nieoczywisty.github.io/MonitorowanieJednostekFrontend/
+<br>
 <br>
 W związku z problemem z deployem kontenera używającego czystego hibernate'a na heroku by aplikacja działała należy sklonować repozytorium zawierające backend. Są tam hardkodowane wszystkie niezbędne informacje(wiem nie fajnie ale walczyłem z tym heroku i wywaliłem się na inicjalizacji klasy HibernateUtil kiedy aplikacja działała na heroku).
 Mając uruchomiony serwis Springowy lokalnie strona githubPages łączy się z localhostem i pobiera sobie dane z endpointów.
